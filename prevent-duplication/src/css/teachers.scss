@@ -1,0 +1,12 @@
+$border: 2px + 3px;
+$padding: $border * 2;
+
+.container-teachers{
+  background: gray;
+  border: $border solid orange;
+  padding: $padding;
+}
+
+ul{
+  list-style: none;
+}
